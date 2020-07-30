@@ -1,0 +1,12 @@
+{
+  "name": "SvgExample",
+  "displayName": "SvgExample",
+  "expo": {
+    "name": "SvgExample",
+    "slug": "SvgExample",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
